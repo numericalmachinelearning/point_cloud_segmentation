@@ -1,5 +1,3 @@
-# **README.md**
-
 # Point Cloud Semantic Segmentation (PandaSet + PointNet)
 
 This repository provides a **minimal, clean, and extendable ML pipeline** for **3D point cloud semantic segmentation** using the **PandaSet LiDAR dataset**.
